@@ -12,6 +12,7 @@ A guide for programming within version control.
 - Use [imperative present tense][imperative mood] in the subject line
 
   > _\[If applied, this commit will\]_ Remove deprecated methods
+  >
   > _\[If applied, this commit will\]_ ~~Removed deprecated methods~~
 
 - Capitalize the subject line
