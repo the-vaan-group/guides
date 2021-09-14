@@ -55,7 +55,7 @@ A guide for programming within version control.
 [imperative mood]: https://chris.beams.io/posts/git-commit/#imperative
 [interactive rebase]: https://www.youtube.com/watch?v=JkpYvXdbnfQ
 [linus]: https://www.mail-archive.com/dri-devel@lists.sourceforge.net/msg39091.html
-[merge konflicts]: https://www.youtube.com/watch?v=MK4u5-Lwy5Q
+[merge conflicts]: https://www.youtube.com/watch?v=MK4u5-Lwy5Q
 [merge vs rebase]: https://www.youtube.com/watch?v=xot40u-_1FI
 [recover from git mistakes]: https://www.git-tower.com/learn/git/first-aid-kit/
 [sublimemerge]: https://www.sublimemerge.com/
