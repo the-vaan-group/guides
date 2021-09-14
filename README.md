@@ -35,6 +35,7 @@ Guides for working together, getting things done, programming well, and programm
 
 ### Tools
 
+- [Git](/git/)
 - [GraphQL](/graphql/)
 
 ## Credits
