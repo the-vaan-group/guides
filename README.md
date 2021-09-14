@@ -33,6 +33,10 @@ Guides for working together, getting things done, programming well, and programm
 
 - [React](/react/)
 
+### Tools
+
+- [GraphQL](/graphql/)
+
 ## Credits
 
 Inspired by [ThoughtBot Inc. Guides](https://github.com/thoughtbot/guides).
