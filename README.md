@@ -38,6 +38,10 @@ Guides for working together, getting things done, programming well, and programm
 - [Git](/git/)
 - [GraphQL](/graphql/)
 
-## Credits
+## Acknowledgements
 
-Inspired by [ThoughtBot Inc. Guides](https://github.com/thoughtbot/guides).
+This work is based on [Guides by ThoughtBot Inc.](https://github.com/thoughtbot/guides).
+
+## License
+
+© 2021 The Vaan Group LLC. The work is distributed under the [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
