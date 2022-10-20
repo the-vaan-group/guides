@@ -12,7 +12,8 @@
   variables and functions.
 - Prefer [template strings] over string concatenation.
 - Prefer promises over callbacks.
-- Prefer array functions like `map` and `forEach` over `for` loops.
+- Prefer array functions like `map` and `forEach` over `for` loops when there is no "early out" condition.
+- Prefer `for` loops  over array functions like `map` and `forEach` when there is an "early out" condition.
 - Use `const` for declaring variables that will never be re-assigned, and `let`
   otherwise.
 - Avoid `var` to declare variables.
