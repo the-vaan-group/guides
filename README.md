@@ -28,7 +28,7 @@ Guides for working together, getting things done, programming well, and programm
 
 - [JavaScript](/javascript/)
 - [TypeScript](/typescript/)
-- [CSS](/CSS/)
+- [CSS](/css/)
 
 ### Frameworks and Platforms
 
