@@ -1,6 +1,6 @@
 # CSS
 
-- Use [viewport](https://www.w3schools.com/css/css_rwd_viewport.asp)  
+- Use [viewport](https://developer.mozilla.org/en-US/docs/Web/HTML/Viewport_meta_tag)  
 - Fixed number of pixels should be avoided whenever possible
 - Use percentage (%) not fixed sizes (px,em,pt)
 - We use a mobile-first approach
