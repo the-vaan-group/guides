@@ -18,4 +18,4 @@
 [^mobile_first_css]:
     [How To Write Mobile-first CSS](https://zellwk.com/blog/how-to-write-mobile-first-css/) by Zell.
 
-    MQPacker PostCSS Plugin works best with [min-width only media queries](https://github.com/hail2u/node-css-mqpacker#notes).
+    MQPacker PostCSS Plugin works best with [min-width media queries](https://github.com/hail2u/node-css-mqpacker#notes).
